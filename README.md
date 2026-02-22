@@ -17,4 +17,5 @@ Read [LICENSE](https://github.com/DuckerHackClient/DuckerHack/blob/main/LICENSE)
 
 ## Contact
 Owner/Discord: justchillingaroundaa
+
 Icon/Discord: felonymane
