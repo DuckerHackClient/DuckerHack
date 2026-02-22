@@ -16,6 +16,6 @@ Check Releases
 Read [LICENSE](https://github.com/DuckerHackClient/DuckerHack/blob/main/LICENSE) before touching the code.
 
 ## Contact
-Owner/Discord: justchillingaroundaa
+# Owner/Discord: justchillingaroundaa
 
 # Icon/Discord: felonymane
