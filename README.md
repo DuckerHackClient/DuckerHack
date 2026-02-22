@@ -1,6 +1,6 @@
-## DuckerHack.
+# DuckerHack
 
-# Minecraft hacked client
+## Minecraft hacked client
 
 # Credits
  *Owner/Scripting: Dtn*
