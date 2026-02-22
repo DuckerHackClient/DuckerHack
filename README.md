@@ -1,22 +1,20 @@
-# DuckerHack
+## DuckerHack
 
 # Minecraft hacked client.
 
-# Credits 
-
-# Owner/Scripting: Dtn
-# Icons: felonymane
+# Credits
+ *Owner/Scripting: Dtn*
+ *Icons: felonymane*
 
 # Features
-# list coming soon
+ list coming soon
 
 # Download
-# Check Releases
+ Check Releases
 
 # License
-# Read [LICENSE](https://github.com/DuckerHackClient/DuckerHack/blob/main/LICENSE) before touching the code.
+ Read [LICENSE](https://github.com/DuckerHackClient/DuckerHack/blob/main/LICENSE) before touching the code.
 
 # Contact
-# Owner/Discord: justchillingaroundaa
-
-# Icon/Discord: felonymane
+*Owner/Discord: justchillingaroundaa*
+*Icon/Discord: felonymane*
