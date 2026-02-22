@@ -13,7 +13,7 @@ list coming soon
 Check Releases
 
 ## License
-Read LICENSE before touching the code.
+Read [LICENSE](https://github.com/DuckerHackClient/DuckerHack/blob/main/LICENSE) before touching the code.
 
 ## Contact
 Owner/Discord: justchillingaroundaa
