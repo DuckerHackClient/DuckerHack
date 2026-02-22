@@ -1,4 +1,20 @@
-## Copyright (c) 2024 Jaystation. All Rights Reserved.
-## Unauthorized copying or distribution is prohibited.
+# DuckerHack
 
-not suppose to be a good client but i make it work sometimes. hopefully
+Minecraft hacked client.
+
+## Credits
+Owner/Scripting: Dtn
+Icons: felonymane
+
+## Features
+list coming soon
+
+## Download
+Check Releases
+
+## License
+Read LICENSE before touching the code.
+
+## Contact
+Owner/Discord: justchillingaroundaa
+Icon/Discord: felonymane
