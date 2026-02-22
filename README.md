@@ -2,17 +2,18 @@
 
 # Minecraft hacked client.
 
-### Credits
+# Credits 
+
 # Owner/Scripting: Dtn
 # Icons: felonymane
 
-### Features
+# Features
 # list coming soon
 
-### Download
+# Download
 # Check Releases
 
-### License
+# License
 # Read [LICENSE](https://github.com/DuckerHackClient/DuckerHack/blob/main/LICENSE) before touching the code.
 
 ### Contact
